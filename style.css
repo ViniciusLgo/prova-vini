@@ -7,7 +7,7 @@
   }
   
   .index .div {
-    background-color: #f2ecd891;
+    background-color: #f2ecd891; /*f2ecd891*/
     overflow: hidden;
     width: 1920px;
     height: 4100px;
@@ -35,7 +35,7 @@
     height: 1084px;
     top: 2px;
     left: 0;
-    background-image: url(./img/harley-davidson-4ixhdlcropi-unsplash-1.png);
+    background-image: url(img/harley-davidson-4ixHdlcROPI-unsplash-1.png);
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -45,7 +45,7 @@
     height: 600px;
     top: 484px;
     background-blend-mode: multiply;
-    background: linear-gradient(180deg, rgb(73.31, 73.31, 73.31) 2.74%, rgba(217, 217, 217, 0) 100%);
+    background: linear-gradient(0, rgb(20, 20, 20) 7%, rgba(250, 250, 250, 0) 100%);
   }
   
   .index .visa-card {
@@ -59,8 +59,8 @@
   
   .index .h-d-visa-card {
     position: absolute;
-    width: 286px;
-    top: 42px;
+    width: 250px;
+    top: 80px;
     left: 163px;
     font-family: "Roboto-Bold", Helvetica;
     font-weight: 700;
@@ -255,10 +255,23 @@
     box-sizing: border-box;
   }
   
-  .index .overlap-group-2 {
+  .index .button-2-1 {
     position: relative;
     width: 194px;
     height: 63px;
+    top: 420px;
+    left: 955px;
+    background-color: #f2ecd891;
+    border-radius: 7px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  .index .button-2-2 {
+    position: relative;
+    width: 194px;
+    height: 63px;
+    top: 985px;
+    right: 90px;
     background-color: #f2ecd891;
     border-radius: 7px;
     border: 3px solid;
@@ -364,8 +377,9 @@
     height: 320px;
     top: 744px;
     left: 539px;
-    background-blend-mode: multiply;
+    mix-blend-mode: darken;
     object-fit: cover;
+
   }
   
   .index .element-lfv {
@@ -374,7 +388,7 @@
     height: 227px;
     top: 153px;
     left: 1367px;
-    background-blend-mode: multiply;
+    mix-blend-mode: darken;
     object-fit: cover;
   }
   
@@ -434,7 +448,7 @@
     height: 66px;
     top: 38px;
     left: 54px;
-    background-color: #ffffff80;
+    background-color: #ffffff80;  /*#ffffff80 */
     border-radius: 12px;
     box-shadow: 0px 4px 25px #0000001a;
   }
@@ -509,6 +523,8 @@
     position: relative;
     width: 189px;
     height: 33px;
+    left: 1550px;
+    top: 55px;
     background-color: #000000;
     border-radius: 5px;
   }
