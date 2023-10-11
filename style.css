@@ -1,0 +1,538 @@
+.index {
+    background-color: #f2ecd891;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .div {
+    background-color: #f2ecd891;
+    overflow: hidden;
+    width: 1920px;
+    height: 4100px;
+    position: relative;
+  }
+  
+  .index .footer {
+    position: absolute;
+    width: 1926px;
+    height: 1086px;
+    top: 3014px;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .index .overlap-group {
+    position: relative;
+    width: 1920px;
+    height: 1086px;
+  }
+  
+  .index .bg-footer {
+    position: absolute;
+    width: 1920px;
+    height: 1084px;
+    top: 2px;
+    left: 0;
+    background-image: url(./img/harley-davidson-4ixhdlcropi-unsplash-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .index .rectangle {
+    position: relative;
+    height: 600px;
+    top: 484px;
+    background-blend-mode: multiply;
+    background: linear-gradient(180deg, rgb(73.31, 73.31, 73.31) 2.74%, rgba(217, 217, 217, 0) 100%);
+  }
+  
+  .index .visa-card {
+    position: absolute;
+    width: 387px;
+    height: 247px;
+    top: 143px;
+    left: 163px;
+    object-fit: cover;
+  }
+  
+  .index .h-d-visa-card {
+    position: absolute;
+    width: 286px;
+    top: 42px;
+    left: 163px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .index .earn-in-h-d-gift {
+    position: absolute;
+    top: 0;
+    left: 449px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .index .sitemap-disclaimers {
+    position: absolute;
+    top: 1018px;
+    left: 327px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #f2ecd8;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .social-media {
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    top: 36px;
+    left: 1680px;
+  }
+  
+  .index .news {
+    position: absolute;
+    width: 1686px;
+    height: 861px;
+    top: 2069px;
+    left: 119px;
+  }
+  
+  .index .jia-ye-coqqwsimqmc {
+    position: absolute;
+    width: 397px;
+    height: 595px;
+    top: 157px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .index .charly-pn {
+    position: absolute;
+    width: 426px;
+    height: 595px;
+    top: 157px;
+    left: 631px;
+    object-fit: cover;
+  }
+  
+  .index .group {
+    top: 787px;
+    left: 767px;
+    position: absolute;
+    width: 196px;
+    height: 63px;
+  }
+  
+  .index .div-wrapper {
+    position: relative;
+    width: 194px;
+    height: 63px;
+    background-color: #f2ecd8;
+    border-radius: 7px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .index .shop-men-s {
+    left: 33px;
+    position: absolute;
+    top: 15px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .overlap-wrapper {
+    top: 798px;
+    left: 1402px;
+    position: absolute;
+    width: 196px;
+    height: 63px;
+  }
+  
+  .index .text-wrapper {
+    left: 36px;
+    position: absolute;
+    top: 15px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .overlap-group-wrapper {
+    top: 785px;
+    left: 97px;
+    position: absolute;
+    width: 196px;
+    height: 63px;
+  }
+  
+  .index .shop-women-s {
+    left: 18px;
+    position: absolute;
+    top: 15px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .stephan-louis {
+    position: absolute;
+    width: 397px;
+    height: 595px;
+    top: 157px;
+    left: 1285px;
+    object-fit: cover;
+  }
+  
+  .index .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 18px;
+    font-family: "Roboto Condensed-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .new-parts-accssories {
+    position: absolute;
+    width: 594px;
+    top: 0;
+    left: 1066px;
+    font-family: "Roboto Condensed-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .index .content {
+    position: absolute;
+    width: 1866px;
+    height: 1239px;
+    top: 760px;
+    left: 30px;
+  }
+  
+  .index .button {
+    position: absolute;
+    width: 196px;
+    height: 63px;
+    top: 367px;
+    left: 969px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .index .overlap-group-2 {
+    position: relative;
+    width: 194px;
+    height: 63px;
+    background-color: #f2ecd891;
+    border-radius: 7px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .index .text-wrapper-3 {
+    position: absolute;
+    top: 15px;
+    left: 39px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .jez-timms {
+    position: absolute;
+    width: 889px;
+    height: 593px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .index .p {
+    position: absolute;
+    width: 365px;
+    top: 99px;
+    left: 968px;
+    font-family: "Roboto Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .index .jorgen-hendriksen {
+    position: absolute;
+    width: 890px;
+    height: 593px;
+    top: 646px;
+    left: 968px;
+    object-fit: cover;
+  }
+  
+  .index .button-2 {
+    position: absolute;
+    width: 196px;
+    height: 63px;
+    top: 953px;
+    left: 118px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .index .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 968px;
+    font-family: "Roboto Condensed-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .text-wrapper-5 {
+    position: absolute;
+    width: 403px;
+    top: 755px;
+    left: 114px;
+    font-family: "Roboto Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .index .text-wrapper-6 {
+    position: absolute;
+    top: 646px;
+    left: 118px;
+    font-family: "Roboto Condensed-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .element {
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    top: 744px;
+    left: 539px;
+    background-blend-mode: multiply;
+    object-fit: cover;
+  }
+  
+  .index .element-lfv {
+    position: absolute;
+    width: 410px;
+    height: 227px;
+    top: 153px;
+    left: 1367px;
+    background-blend-mode: multiply;
+    object-fit: cover;
+  }
+  
+  .index .header {
+    position: absolute;
+    width: 1921px;
+    height: 730px;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .index .menu-principal {
+    width: 1929px;
+    height: 730px;
+  }
+  
+  .index .overlap {
+    position: relative;
+    width: 1921px;
+    height: 730px;
+  }
+  
+  .index .bg-header {
+    position: absolute;
+    width: 1921px;
+    height: 730px;
+    top: 0;
+    left: 0;
+  }
+  
+  .index .overlap-group-3 {
+    position: relative;
+    height: 730px;
+  }
+  
+  .index .harley-davidson {
+    position: absolute;
+    width: 1920px;
+    height: 716px;
+    top: 0;
+    left: 0;
+  }
+  
+  .index .rectangle-2 {
+    position: absolute;
+    width: 1921px;
+    height: 730px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgb(169, 166, 154) 7.96%, rgba(217, 217, 217, 0) 41.88%);
+  }
+  
+  .index .bg-header-2 {
+    position: absolute;
+    width: 1812px;
+    height: 66px;
+    top: 38px;
+    left: 54px;
+    background-color: #ffffff80;
+    border-radius: 12px;
+    box-shadow: 0px 4px 25px #0000001a;
+  }
+  
+  .index .text-wrapper-7 {
+    position: absolute;
+    width: 55px;
+    top: 62px;
+    left: 387px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .text-wrapper-8 {
+    position: absolute;
+    width: 61px;
+    top: 62px;
+    left: 516px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .text-wrapper-9 {
+    position: absolute;
+    width: 61px;
+    top: 62px;
+    left: 652px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .text-wrapper-10 {
+    position: absolute;
+    width: 92px;
+    top: 62px;
+    left: 788px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .button-3 {
+    position: absolute;
+    width: 191px;
+    height: 33px;
+    top: 54px;
+    left: 1579px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .index .overlap-2 {
+    position: relative;
+    width: 189px;
+    height: 33px;
+    background-color: #000000;
+    border-radius: 5px;
+  }
+  
+  .index .text-wrapper-11 {
+    position: absolute;
+    width: 46px;
+    top: 7px;
+    left: 71px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .index .logo-a {
+    position: absolute;
+    width: 142px;
+    height: 111px;
+    top: 16px;
+    left: 63px;
+    object-fit: cover;
+  }
+  
