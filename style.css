@@ -1,3 +1,5 @@
+
+
 .index {
     background-color: #f2ecd891;
     display: flex;
@@ -256,7 +258,7 @@
   }
   
   .index .button-2-1 {
-    position: relative;
+   position: relative;
     width: 194px;
     height: 63px;
     top: 420px;
@@ -265,7 +267,7 @@
     border-radius: 7px;
     border: 3px solid;
     border-color: #000000;
-  }
+    }
   .index .button-2-2 {
     position: relative;
     width: 194px;
@@ -551,4 +553,5 @@
     left: 63px;
     object-fit: cover;
   }
+  
   
